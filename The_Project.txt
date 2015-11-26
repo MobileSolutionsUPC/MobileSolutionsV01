@@ -2,3 +2,4 @@ Saludos! Este proyecto consistirá en un realizar un aplicativo mobile con las s
 
 * Que consuma recursos del teléfono celular
 * Que sea una aplicación nativa para android
+
